@@ -1,1 +1,1 @@
-# 나 김태진인데, 개발킹이 될 것이다.
+<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54"/>
