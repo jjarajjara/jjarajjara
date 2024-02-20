@@ -1,6 +1,12 @@
 <!-- Header Content -->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=27&height=200&section=header&text=TaeJin%20Kim&fontSize=90&fontAlign=50&fontAlignY=40&desc=AI%20developer&descSize=30&descAlignY=75&animation=fadeIn)
 
+  <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hello+World!+This+is+Tae+Jin+Kim!" alt="Typing SVG" /></a>
+
+
+<p align="center">
+✨About Me✨
+
 <p align="center">
 </a>
     <a href="https://www.instagram.com/taejinjinjarraaa/">
