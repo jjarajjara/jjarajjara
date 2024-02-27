@@ -10,7 +10,9 @@
 <p align="center">
 </a>
     <a href="https://www.instagram.com/taejinjinjarraaa/">
-    <img src="https://img.shields.io/badge/follow_Instagram-E4405F?style=social&logo=Instagram&link=https://www.instagram.com/j_hyeok__lee/?hl=ko"/>
+    <img src="https://img.shields.io/badge/follow_Private_Instagram-E4405F?style=social&logo=Instagram&link=https://www.instagram.com/"/>
+    <a href="https://www.instagram.com/dev.jjara//">
+    <img src="https://img.shields.io/badge/follow_dev_Instagram-E4405F?style=social&logo=Instagram&link=https://www.instagram.com/"/>
     <a href="https://blog.naver.com/jjarajjara1903">
     <img src="https://img.shields.io/badge/follow_Blog-2DB400?style=social&logo=Naver">
   </a>
