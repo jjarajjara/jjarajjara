@@ -3,6 +3,7 @@
 
   <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hello+World!+This+is+Tae+Jin+Kim!" alt="Typing SVG" /></a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=jjarajjara&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center">
 ✨About Me✨
