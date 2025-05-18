@@ -7,6 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjarajjara)]
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjarajjara)]
+
 
 <p align="center">
 ✨About Me✨
