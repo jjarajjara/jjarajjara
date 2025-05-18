@@ -22,4 +22,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54"/>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jjarajjara&theme=dark&hide_border=true)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjarajjara)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjarajjara)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bnbong&theme=transparent&exclude=JavaScript"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bnbong&theme=transparent"/>
+</p>
