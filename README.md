@@ -3,12 +3,6 @@
 
   <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hello+World!+This+is+Tae+Jin+Kim!" alt="Typing SVG" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jjarajjara&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjarajjara)]
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjarajjara)]
-
 
 <p align="center">
 ✨About Me✨
@@ -26,3 +20,6 @@
 
 
 <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54"/>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jjarajjara&theme=dark&hide_border=true)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjarajjara)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjarajjara)](https://github.com/anuraghazra/github-readme-stats)
